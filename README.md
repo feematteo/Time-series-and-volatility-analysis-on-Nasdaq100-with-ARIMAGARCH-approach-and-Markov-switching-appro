@@ -1,0 +1,1 @@
+# Time-series-and-volatility-analysis-on-Nasdaq100-with-ARIMAGARCH-approach-and-Markov-switching-appro
